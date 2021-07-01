@@ -6,8 +6,8 @@ import WelcomeScrene from './app/screens/WelcomeScrene';
 
 export default function App() {
   return (
-    <ViewImageScreen />
-    //<WelcomeScrene />
+    //<ViewImageScreen />
+    <WelcomeScrene />
   );
 }
 
